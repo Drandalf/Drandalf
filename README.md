@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Drandalf
-- 👀 I’m interested in ReactNative Development and making Music
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in ReactNative Development, Web Development and making Music
+- 🌱 I’m currently learning JavaScript, Typescript, GO and C
 - 💞️ I’m looking to collaborate on App Development
 
 <!---
